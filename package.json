@@ -1,0 +1,31 @@
+{
+  "name": "seidasuarez",
+  "version": "1.0.0",
+  "description": "Dynamic README.md for GitHub Profile",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/thmsgbrt/thmsgbrt.git"
+  },
+  "keywords": [
+    "readme.md",
+    "github",
+    "actions",
+    "dynamic",
+    "javascript"
+  ],
+  "author": "Thomas Guibert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thmsgbrt/thmsgbrt/issues"
+  },
+  "homepage": "https://github.com/thmsgbrt/thmsgbrt#readme",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "mustache": "^4.2.0",
+    "node-fetch": "^3.3.2"
+  }
+}
