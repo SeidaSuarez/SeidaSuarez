@@ -1,6 +1,6 @@
 import { config } from 'dotenv';
 import fetch from 'node-fetch';
-import Mustache from 'mustache'; // Import Mustache directly
+import Mustache from 'mustache';
 import fs from 'fs/promises';
 
 config();
