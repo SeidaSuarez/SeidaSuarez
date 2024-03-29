@@ -5,7 +5,7 @@
 
 <div align="center">
 <h3 style="margin-bottom: 0">Skills</h3>
-<h1 style="margin-top: 0;"></h1>
+<br>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
@@ -20,7 +20,7 @@
 
 <div align="center">
 <h3 style="margin-bottom: 0">Frameworks, libraries & others</h3>
-<h1 style="margin-top: 0;"></h1>
+<br>
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -38,7 +38,7 @@
 
 <div  align="center" style="margin-bottom: 10px;">
 <h3 style="margin-bottom: 0">Tools & others</h3>
-<h1 style="margin-top: 0;"></h1>
+<br>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
@@ -46,7 +46,7 @@
 
 <div  align="center" style="margin-bottom: 10px;">
 <h3 style="margin-bottom: 0">Lang Stats</h3>
-<h1 style="margin-top: 0;"></h1>
+<br>
 <img src="//github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&layout=compact"/>
 </div>
 
