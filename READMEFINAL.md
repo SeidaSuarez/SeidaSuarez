@@ -35,14 +35,22 @@
 
 </div>
 
-<div align="center">
+
+<div  align="center" style="margin-bottom: 10px;">
 <h3 style="margin-bottom: 0">Tools & others</h3>
 <h1 style="margin-top: 0;"></h1>
 <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
 <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white"/>
 <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white"/>
-
 </div>
+
+<div  align="center" style="margin-bottom: 10px;">
+<h3 style="margin-bottom: 0">Lang Stats</h3>
+<h1 style="margin-top: 0;"></h1>
+<img src="//github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&layout=compact"/>
+</div>
+
+
 
 <!-- 
 linkedIN
