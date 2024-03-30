@@ -5,7 +5,7 @@
 
 
 <div align="left">
-<h4 style="margin-bottom: 5px; font-weight: bold; text-decoration: underline;">Skills & Tools</h4>
+<h4 style="margin-bottom: 5px;"><u>Skills & Tools</u></h4>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,7 +30,7 @@
 </div>
 
 <div align="left">
-<h4 style="margin-bottom: 5px; font-weight: bold; text-decoration: underline;">Learning</h4>
+<h4 style="margin-bottom: 5px; font-weight: bold; text-decoration: underline;"><u>Learning</u></h4>
 <div>
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
@@ -55,7 +55,7 @@
 </div>
 
 <div  align="left" style="margin-bottom: 10px;">
-<h4 style="margin-bottom: 05px; font-weight: bold; text-decoration: underline;">Lang Stats</h4>
+<h4 style="margin-bottom: 05px; font-weight: bold; text-decoration: underline;"><u>Lang Stats</u></h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&layout=compact"/>
 </div>
 <!-- 
