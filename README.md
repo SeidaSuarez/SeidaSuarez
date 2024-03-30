@@ -41,9 +41,6 @@
 <h4 style="margin-bottom: 05px; font-weight: bold; text-decoration: underline;">Lang Stats</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&layout=compact"/>
 </div>
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&hide_progress=true)
-
 <!-- 
 linkedIN
 https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white
