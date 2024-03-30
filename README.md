@@ -42,7 +42,7 @@
 <img src="//github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&layout=compact"/>
 </div>
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&hide_progress=true)
 
 <!-- 
 linkedIN
