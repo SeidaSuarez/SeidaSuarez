@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I´m Seida 👋</h1>
 <div align="center">
-<h3>Desarrollador Web Full-Stack con pasión por el diseño, UX/UI</h3>
+<h3>Desarrollador Full-Stack con pasión por el UX/UI</h3>
 </div>
 
 <div align="center">
