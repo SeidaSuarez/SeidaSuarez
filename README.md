@@ -39,7 +39,7 @@
 
 <div  align="center" style="margin-bottom: 10px;">
 <h4 style="margin-bottom: 05px; font-weight: bold; text-decoration: underline;">Lang Stats</h4>
-<img src="//github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&layout=compact"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&layout=compact"/>
 </div>
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&hide_progress=true)
