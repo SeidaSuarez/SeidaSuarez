@@ -3,8 +3,8 @@
 <h3>Desarrollador Full-Stack con pasión por el UX/UI</h3>
 </div>
 
+<h4 align="center" style="margin-bottom: 5px; font-weight: bold; text-decoration: underline;">Skills & Tools</h4>
 <div align="center">
-<h4 style="margin-bottom: 5px; font-weight: bold; text-decoration: underline;">Skills & Tools</h4>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
 <img src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"/>
