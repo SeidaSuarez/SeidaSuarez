@@ -4,7 +4,7 @@
 </div>
 
 <div align="center">
-<h4 style="margin-bottom: 5px;">Skills & Tools</h4>
+<h3 style="margin-bottom: 5px;">Skills & Tools</h3>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
 <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -30,7 +30,7 @@
 </div>
 
 <div align="center">
-<h4 style="margin-bottom: 5px;">Learning</h4>
+<h3 style="margin-bottom: 5px;">Learning</h3>
 <div>
 <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
 <img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white"/>
@@ -54,7 +54,7 @@
 </div>
 
 <div  align="center" style="margin-bottom: 10px;">
-<h4 style="margin-bottom: 05px;">Lang Stats</h4>
+<h3 style="margin-bottom: 05px;">Lang Stats</h3>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&layout=compact"/>
 </div>
 <!-- 
