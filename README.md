@@ -3,7 +3,7 @@
 <h3>Desarrollador Full-Stack con pasión por el UX/UI</h3>
 </div>
 
-<div align="left">
+<div align="center">
 <h4 style="margin-bottom: 5px;">Skills & Tools</h4>
 <div>
 <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white"/>
@@ -28,7 +28,7 @@
 </div>
 </div>
 
-<div align="left">
+<div align="center">
 <h4 style="margin-bottom: 5px;">Learning</h4>
 <div>
 <img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white"/>
@@ -53,7 +53,7 @@
 </div>
 </div>
 
-<div  align="left" style="margin-bottom: 10px;">
+<div  align="center" style="margin-bottom: 10px;">
 <h4 style="margin-bottom: 05px;">Lang Stats</h4>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeidaSuarez&layout=compact"/>
 </div>
